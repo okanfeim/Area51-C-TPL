@@ -1,0 +1,16 @@
+E:\Programs & Source\Misc\Area51\bin\Debug\Area51.exe.config
+E:\Programs & Source\Misc\Area51\bin\Debug\Area51.exe
+E:\Programs & Source\Misc\Area51\bin\Debug\Area51.pdb
+E:\Programs & Source\Misc\Area51\obj\Debug\Area51.csprojResolveAssemblyReference.cache
+E:\Programs & Source\Misc\Area51\obj\Debug\Area51.exe
+E:\Programs & Source\Misc\Area51\obj\Debug\Area51.pdb
+C:\Users\Lud\Desktop\Area51\bin\Debug\Area51.exe.config
+C:\Users\Lud\Desktop\Area51\bin\Debug\Area51.exe
+C:\Users\Lud\Desktop\Area51\bin\Debug\Area51.pdb
+C:\Users\Lud\Desktop\Area51\obj\Debug\Area51.csprojResolveAssemblyReference.cache
+C:\Users\Lud\Desktop\Area51\obj\Debug\Area51.csproj.CoreCompileInputs.cache
+C:\Users\Lud\Desktop\Area51\obj\Debug\Area51.exe
+C:\Users\Lud\Desktop\Area51\obj\Debug\Area51.pdb
+C:\Users\user\Desktop\Area51\bin\Debug\Area51.exe.config
+C:\Users\user\Desktop\Area51\obj\Debug\Area51.exe
+C:\Users\user\Desktop\Area51\obj\Debug\Area51.pdb
